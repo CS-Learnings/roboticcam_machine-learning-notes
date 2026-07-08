@@ -23,6 +23,9 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 * ### [Transfomer with PyTorch](https://github.com/roboticcam/machine-learning-notes/blob/master/files/transformer.pdf) ###
 analysis of the Transformer model using PyTorch code, covering the basic architecture, K-V Caching, Decoupled RoPE, and Deepseek's Multi-Head Latent Attention. 结合 PyTorch 代码深入解析了 Transformer 模型，内容涵盖基础架构、键值缓存、解耦旋转位置编码以及 Deepseek 的多头潜在注意力机制。
 
+* ### [Generative Models and Variational Inference](https://github.com/roboticcam/machine-learning-notes/blob/master/files/generative_models.pdf) ###
+analysis of modern generative models and variational inference, covering Maximum Likelihood Estimation, the Evidence Lower Bound (ELBO), Importance Weighted Auto-Encoders (IWAE), Variational Auto-Encoders (VAE), Gaussian Mixture and Dirichlet Process Mixture variational inference, Stick-breaking VAE, Adversarial Variational Bayes, Normalizing Flows, and Denoising Diffusion models including their formulation as Stochastic Differential Equations and Flow Matching. 深入解析了现代生成模型与变分推断，内容涵盖极大似然估计、证据下界（ELBO）、重要性加权自编码器（IWAE）、变分自编码器（VAE）、高斯混合与狄利克雷过程混合模型的变分推断、断棒式 VAE、对抗变分贝叶斯、标准化流，以及去噪扩散模型（含其随机微分方程形式与流匹配）。
+
 
 # Video Tutorial to these notes 视频资料
 
